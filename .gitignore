@@ -1,0 +1,32 @@
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+ragvenv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data folders
+data/vector_store/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Byte-compiled / distribution
+*.egg-info/
+*.egg
+dist/
+build/

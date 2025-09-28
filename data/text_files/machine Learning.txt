@@ -1,0 +1,25 @@
+Python is a popular programming language, created by Guido van Rossum in 1991.
+
+It is simple and easy to read.
+
+Its syntax is close to normal English.
+
+Python supports many coding styles, including:
+
+Object-oriented programming
+
+Functional programming
+
+Procedural programming
+
+It has a large standard library and strong community support.
+
+This makes it useful in web development, data science, AI, and automation.
+
+Python is also the most widely used language for Machine Learning (ML).
+
+It has powerful libraries like NumPy, Pandas, TensorFlow, PyTorch, and Scikit-learn.
+
+ML with Python is used in image recognition, natural language processing, predictions, and automation.
+
+Overall, Python is beginner-friendly but also powerful enough for advanced projects in software and artificial intelligence.
