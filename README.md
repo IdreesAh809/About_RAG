@@ -1,2 +1,3 @@
 # About_RAG
-A practice repository for learning Retrieval-Augmented Generation (RAG). Demonstrates creating document embeddings with ChromaDB and generating answers using Groq LLM from PDFs and text files.
+A practice repository for learning Retrieval-Augmented Generation (RAG).
+It creates document embeddings using ChromaDB and retrieves context to generate responses through the Gemma 2 (9B IT) language model, served efficiently via the Groq inference platform.
